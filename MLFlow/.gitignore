@@ -216,11 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-venv/
-.venv/
-__pycache__/
-*.pyc
-
-mlartifacts/
-mlflow.db
-.env
